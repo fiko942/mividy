@@ -1,0 +1,29 @@
+{
+  "name": "Mividy",
+  "version": "1.0.0",
+  "description": "Permudahkan transaksi jual beli anda dengan Mividy",
+  "author": "SMKM 6 Donomulyo",
+  "main": "main.js",
+  "build": { "linux": { "category": "Education", "target": [ { "target": "deb", "arch": [ "x64" ] }, { "target": "7z" } ] }, "win": {"icon": "./assets/image/icon/200X200.png", "target": [ { "target": "nsis" } ] } },
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "repository": "https://github.com/fiko942/mividy",
+  "keywords": [
+    "Mividy",
+    "SMKM 6 Donomulyo",
+    "KIDS 2022"
+  ],
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron-builder": "^23.0.3"
+  },
+  "dependencies": {
+    "electron-log": "^4.4.7",
+    "electron-reload": "^2.0.0-alpha.1",
+    "electron-settings": "^4.0.2",
+    "html-pdf": "^3.0.1",
+    "node-rest-client": "^3.1.1"
+  }
+}
