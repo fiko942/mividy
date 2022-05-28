@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://tobelsoft.my.id">
-    <img src="https://trucatt.tobelsoft.my.id/assets/welcome/img/icon20.png" alt="Logo" width="80" height="80">
+    <img src="./banner.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Free Portfolio React App</h3>
@@ -33,6 +33,14 @@
 ### Built With
 
 * [Electron JS](https://electronjs.org)
+* [Bootstrap](https://getbootstrap.com)
+* [Javascript](https://javascript.com)
+* [Codeigniter](https://codeigniter.com)
+* [JQuery](https://jquery.com)
+* [AOS JS](https://michalsnik.github.io/aos/)
+* [Vanilla Tilt](https://micku7zu.github.io/vanilla-tilt.js/)
+* [Boxicons](https://boxicons.com/)
+* [Node JS](https://nodejs.org/en/)
 
 ### Buy me a coffe
 
@@ -47,4 +55,4 @@ Wiji Fiko Teren - [YouTube](https://www.youtube.com/channel/UCg0vH4hDGuLQlAxtfGC
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/wiji-fiko-teren-a90841227/
+[linkedin-url]: https://www.linkedin.com/in/wiji-fiko-teren-4a7a00219/
