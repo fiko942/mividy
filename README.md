@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://tobelsoft.my.id">
-    <img src="./banner.jpg" alt="Banner" width="150" height="80">
+    <img src="./banner.jpg" alt="Banner" width="250" height="150">
   </a>
 
   <h3 align="center">Free Portfolio React App</h3>
