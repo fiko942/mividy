@@ -11,7 +11,8 @@
     <img src="./banner.jpg" alt="Banner" width="380" height="190">
   </a>
 
-  <h3 align="center">Free Portfolio React App</h3>
+  <h3 align="center">Mividy</h3>
+  <small align="center">Won 1st place in the national level software development competition organized by UMM (University of Muhammadiyah Malang).</small>
 
   <p align="center">
     You can contact us if you have any question
