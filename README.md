@@ -12,7 +12,7 @@
   </a>
 
   <h3 align="center">Mividy</h3>
-  <small align="center" style="margin-bottom: 10px; font-weight: 600;">Won 1st place in the national level software development competition organized by UMM (University of Muhammadiyah Malang).</small>
+  <small align="center" style="margin-bottom: 30px; font-weight: 600;">Won 1st place in the national level software development competition organized by UMM (University of Muhammadiyah Malang).</small>
 
   <p align="center">
     You can contact us if you have any question
