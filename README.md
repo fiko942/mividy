@@ -25,7 +25,7 @@
   <p align="center">
     Demo site
     <br />
-    <a target="_blank" href="https://fiko942.github.io"><strong>https://fiko942.github.io »</strong></a>
+    <a target="_blank" href="https://mividy.tobelsoft.my.id"><strong>https://mividy.tobelsoft.my.id »</strong></a>
     <br />
     <br />
   </p>
